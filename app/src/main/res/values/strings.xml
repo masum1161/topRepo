@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Top Repo</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="text_clearing_application_data_is_not_allowed">Clearing application data is not allowed</string>
+    <string name="text_version">Version 0.1.0</string>
+
+    <!--  home menu  -->
+    <string name="menu_home">Home</string>
+    <string name="menu_tasks">My Tasks</string>
+    <string name="menu_schedule">Schedule</string>
+    <string name="menu_analytics">Analytics</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- common string -->
+    <string name="image_content_description">n/a</string>
+    <string name="login_here">Login Here</string>
+    <string name="password">Password</string>
+    <string name="user_id_email">User ID/Email</string>
+    <string name="remember_me">Remember me</string>
+    <string name="stage">Stage</string>
+    <string name="under_development">Under Development</string>
+    <string name="top_repo">Top Repo</string>
+    <string name="last_updated">Last Updated:</string>
+    <string name="repo_details">Repo Details</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="_06_05_2022">06.05.2022</string>
+
+</resources>

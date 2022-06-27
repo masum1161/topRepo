@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2021 by Brac-UPG Programme
+  ~ All Rights Reserved by BRAC
+  ~ Powered By BMQA
+  ~ BMQA-BRAC Confidential
+  -->
+
+<resources>
+    <dimen name="font_12sp">12sp</dimen>
+
+    <dimen name="margin">10dp</dimen>
+    <dimen name="margin_large">15dp</dimen>
+    <dimen name="padding_large">15dp</dimen>
+    <dimen name="item_feed_profile_size">55dp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="margin_xsmall">3dp</dimen>
+    <dimen name="font_small">12sp</dimen>
+
+    <dimen name="font_xmedium">14sp</dimen>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/menu_task"
+        android:enabled="true"
+        android:icon="@drawable/ic_task"
+        android:title="@string/menu_tasks" />
+    <item
+        android:id="@+id/menu_schedule"
+        android:enabled="true"
+        android:icon="@drawable/ic_schedule"
+        android:title="@string/menu_schedule" />
+    <item
+        android:id="@+id/menu_analytics"
+        android:enabled="true"
+        android:icon="@drawable/ic_analytics"
+        android:title="@string/menu_analytics" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/menu_settings" />
+</menu>

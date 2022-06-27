@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948800927498",
+    "project_id": "top-repo",
+    "storage_bucket": "top-repo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948800927498:android:e04857ca37b2662813acf3",
+        "android_client_info": {
+          "package_name": "net.top.repo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948800927498-46a2b1tm6ogc3td13k5fgt7jdnlhk996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUZKLwmdEkzLqn9puTyxuwjVbWCgg1lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948800927498-46a2b1tm6ogc3td13k5fgt7jdnlhk996.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
