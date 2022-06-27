@@ -1,4 +1,4 @@
-# Top Github Repositories App in Android(Kotlin)
+# Top Github Repositories App(Kotlin)
 
 A test application which shows the 50 top most starred github repositories sorted by searching with "Android" keyword.
 
