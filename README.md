@@ -15,31 +15,3 @@ time in month-day-year hour:seconds format, each field in 2 digit numbers.
 #### App Architecture 
 Based on mvvm architecture and repository pattern.
 
-#### Technologies used
-* <b>Navigation Components</b> 
-* <b>Fragments</b> 
-* <b>Drawer Layout</b>
-* <b>Picasso</b> 
-* <b>RxJava</b>
-* <b>Data Binding</b>
-* <b>ViewModel</b> 
-
-
-#### Libraries used
-* <b>ConstraintLayout</b> 
-* <b>CardView</b> 
-* <b>Retrofit 2</b>
-* <b>Picasso</b> 
-* <b>RxJava</b>
-* <b>RecyclerView</b>
-
-
-#### App Specs
-* Minimum SDK 23
-* [Java8]
-* MVVM Architecture
-* Android Architecture Components (LiveData, Navigation Components, Lifecycle, ViewModel, ConstraintLayout)
-* [RxJava2](https://github.com/ReactiveX/RxJava) for implementing Observable pattern.
-* [Retrofit 2](https://square.github.io/retrofit/) for API integration.
-* [Okhhtp3](https://github.com/square/okhttp) for implementing interceptor.
-* [Picasso](http://square.github.io/picasso/) for image loading.
